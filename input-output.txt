@@ -1,0 +1,39 @@
+Sample Input 0
+
+2
+B A C E D
+A C
+C B D
+Sample Output 0
+
+3 [C]
+2 [A]
+2 [A C]
+2 [B]
+2 [B C]
+2 [B C D]
+2 [B D]
+2 [C D]
+2 [D]
+
+3 [C]
+2 [A C]
+2 [B C D]
+Sample Input 1
+
+2
+data mining
+frequent pattern mining
+mining frequent patterns from the transaction dataset
+closed and maximal pattern mining
+Sample Output 1
+
+4 [mining]
+2 [frequent]
+2 [frequent mining]
+2 [mining pattern]
+2 [pattern]
+
+4 [mining]
+2 [frequent mining]
+2 [mining pattern]
